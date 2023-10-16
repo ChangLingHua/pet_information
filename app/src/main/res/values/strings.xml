@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <array name="region">
+        <item>永康區</item>
+        <item>安平區</item>
+        <item>中西區</item>
+        <item>南區</item>
+    </array>
+
+
+</resources>
